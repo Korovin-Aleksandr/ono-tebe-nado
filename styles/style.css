@@ -109,7 +109,7 @@
   z-index: 1;
   letter-spacing: 0.3em;
 }
-/*span*/
+
 .aligned-text {
   display: block;
 }
@@ -195,7 +195,7 @@
   flex-direction: column;
   justify-content: space-between;
   padding: 51px 40px 48px 40px;
-  min-height: 563px; /*тут нужно подумать*/
+  min-height: 563px;
 }
 
 .card-link {
